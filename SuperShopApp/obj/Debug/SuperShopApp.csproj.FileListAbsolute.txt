@@ -1,0 +1,18 @@
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Form1.resources
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+C:\Users\Ador\Desktop\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Form1.resources
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+C:\Users\LENOVO PC\Videos\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
